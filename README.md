@@ -7,6 +7,8 @@ Hope You Enjoy Our Project.
 Download:
 https://github.com/segabgen/SegaBGen/releases
 <HR>
+SegaBGen is Owned by sonicroms.tk 
+<HR>
 <body background="background.jpg">
 <link rel="shortcut icon" href="https://raw.githubusercontent.com/segabgen/SegaBGen/master/sega_aGo_icon.ico" />
 
