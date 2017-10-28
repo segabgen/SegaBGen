@@ -5,7 +5,7 @@ We will Be Releasing Updates Until Were Done.
 Hope You Enjoy Our Project.
 <HR>
 Download:
-https://github.com/segabgen/SegaBGen/releases/tag/1.0
+https://github.com/segabgen/SegaBGen/releases
 <HR>
 <body background="background.jpg">
   
