@@ -8,5 +8,5 @@ Download:
 https://github.com/segabgen/SegaBGen/releases
 <HR>
 <body background="background.jpg">
-<link rel="shortcut icon" href="http://example.com/favicon.ico" />
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/segabgen/SegaBGen/master/sega_aGo_icon.ico" />
 
